@@ -14,7 +14,7 @@ function setup() {
   do_tsne();
 }
 
-function dotsne() {
+function do_tsne() {
   console.log("hello")
   var t = ml5.tSNE()
   console.log("goodbye")
